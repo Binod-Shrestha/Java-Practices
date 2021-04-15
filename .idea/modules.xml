@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Functional-Programming/Functional-Programming.iml" filepath="$PROJECT_DIR$/Functional-Programming/Functional-Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Practices.iml" filepath="$PROJECT_DIR$/Java-Practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda-Expression/Lambda-Expression.iml" filepath="$PROJECT_DIR$/Lambda-Expression/Lambda-Expression.iml" />
+    </modules>
+  </component>
+</project>
