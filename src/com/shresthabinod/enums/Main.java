@@ -47,7 +47,7 @@ public class Main {
         Days days = Days.MONDAY;
         Days[] listDays = Days.values();
         for (Days lDays : listDays) {
-            System.out.println(lDays);
+            System.out.println(lDays.ordinal()+". "+lDays); // ordinal provides the index
         }
 
     }

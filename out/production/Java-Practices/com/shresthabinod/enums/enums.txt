@@ -5,6 +5,8 @@ public enum Level{
             }
 Why enum?
 1. define own data type
+
+## Important notes on Enum:
 - every enum constant is an object
 - every enum is used as class concept
 - every enum constant is public static final
@@ -25,8 +27,18 @@ Why enum?
                 HIGH, MEDIUM, LOW
             }
     }
-
 - enum type must not be local
+
+# enum vs inheritance
+- enum itself is child class of  java.lang.enum class
+- enum cannot extend any other enum(Multiple inheritance is not allowed)
+- child cannot be created from enum (enum is final implicitly)
+- no class can extend enum as well
+
+# enum and interface
+- enum can implement any # of interfaces
+-
+
 - applicable modifiers for enum
     - if outside the class declared
         * public,
@@ -41,4 +53,9 @@ Why enum?
         * protected
 
 - enum vs switch statement
+
+#### ordinal()
+- it provides the index of the enum constant
+## Important Note:
+- if the enum has any method or other member besides enum constants, the constants should end with ";".
 
