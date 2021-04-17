@@ -1,7 +1,9 @@
 
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8âÙ®/
-e
-java:S1192"IDefine a constant instead of duplicating this literal "Brampton" 3 times.(Ş‡S8¶¤­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8åúá­/
 K
 java:S1611"/Remove the parentheses around the "x" parameter(¯Õ·X8åúá­/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8åúá­/
+e
+java:S1192"IDefine a constant instead of duplicating this literal "Brampton" 3 times.(Ş‡S8¶¤­/
+U
+java:S4973"9Use the "equals" method if value comparison was intended.(¯Õ·X8ë—â×/

@@ -1,0 +1,44 @@
+Enumeration:
+
+public enum Level{
+            HIGH, MEDIUM, LOW
+            }
+Why enum?
+1. define own data type
+- every enum constant is an object
+- every enum is used as class concept
+- every enum constant is public static final
+     public static final HIGH = new Level();
+     public static final MEDIUM = new Level();
+- enum can be declared inside the class or outside the class
+    example:
+    # outside class
+    public enum Level{
+        HIGH, MEDIUM, LOW
+    }
+    public Test{
+
+    }
+    # inside the class
+     public Test{
+         public enum Level{
+                HIGH, MEDIUM, LOW
+            }
+    }
+
+- enum type must not be local
+- applicable modifiers for enum
+    - if outside the class declared
+        * public,
+        * default and
+        * static
+    - if inside the class
+        * public,
+        * default,
+        * strictfp,
+        * private,
+        * static,
+        * protected
+
+- enum vs switch statement
+

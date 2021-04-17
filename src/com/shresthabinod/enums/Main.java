@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Second Day: "+ secondDay);
 
         // enums with if statements
+        System.out.println("<===== IF STATEMENT ==========>");
         if(firstDay == Days.MONDAY){
             System.out.println(firstDay);
         } else if( secondDay == Days.TUESDAY) {
@@ -19,11 +20,13 @@ public class Main {
         }
 
         // enum with fields
+        System.out.println("<=== Enum with fields Example===>");
         Level highLevel = Level.HIGH;
         System.out.println("Code: "+ highLevel.getLevelCode());
 
 
         // enum with switch
+        System.out.println("<========= SWITCH STATEMENT========>");
         Level level = Level.LOW;
         switch (level){
             case LOW:
@@ -32,11 +35,14 @@ public class Main {
             case MEDIUM:
                 System.out.println(Level.MEDIUM);break;
             case HIGH:
-                System.out.println(Level.HIGH);
+                System.out.println(Level.HIGH);break;
+            default:
+                System.out.println(" General Level");
 
         }
 
         // enums with value.of
+        System.out.println("<=== Enum with values examples ===>");
 
         Days days = Days.MONDAY;
         Days[] listDays = Days.values();
