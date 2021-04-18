@@ -23,3 +23,5 @@ V
 &src/com/shresthabinod/enums/Level.java,3/a/3afd81bf70c1d888cc93aa3134e57c3e2d415572
 U
 %src/com/shresthabinod/enums/Main.java,f/0/f0dcdf2d436b1018c39d8c810b4da07c2dde6584
+U
+%src/com/shresthabinod/enums/enums.txt,e/d/ed40628e7116a6bb92d421e15f0fa785e4598e09

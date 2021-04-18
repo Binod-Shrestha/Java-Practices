@@ -37,7 +37,8 @@ Why enum?
 
 # enum and interface
 - enum can implement any # of interfaces
--
+
+# enum cannot be instantiated
 
 - applicable modifiers for enum
     - if outside the class declared
