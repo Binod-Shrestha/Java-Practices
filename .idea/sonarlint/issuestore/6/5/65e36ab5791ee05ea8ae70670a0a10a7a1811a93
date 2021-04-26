@@ -1,0 +1,14 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Binod" 4 times.(ÏÑí¡üÿÿÿÿ8 ú¡×/
+B
+java:S2129" Remove this "String" constructor(ÏÑí¡üÿÿÿÿ8êªèÕ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ª£êîûÿÿÿÿ8«¥ëÕ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Úá
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚æÆ¡8«¥ëÕ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÂí¢8¿ó¤×/
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(‚æÆ¡8«¥ëÕ/
+=
+java:S2129" Remove this "String" constructor(ŠŞƒÂ8«¥ëÕ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğÔ½À8¿ó¤×/

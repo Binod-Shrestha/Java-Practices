@@ -1,5 +1,23 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(šªÆñ8ó¿Ù/
+C
+java:S38643"!Remove this use of "Stream.peek".(Êã‹Ñÿÿÿÿÿ8µœÌà/
+k
+java:S1192"IDefine a constant instead of duplicating this literal "Shrestha" 3 times.(ÓáÍ²ùÿÿÿÿ8¬ğà/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(äÊË8˜Î‹Û/
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ÂØ‹´8£¹Éà/
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î€Ô
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú»¸‡øÿÿÿÿ8ó¿Ù/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(úÙ‡Õúÿÿÿÿ8ó¿Ù/
+N
+java:S1612+",Replace this lambda with a method reference.(îİ¯ÿûÿÿÿÿ8µœÌà/
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Êã‹Ñÿÿÿÿÿ8ê« Û/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úÙ‡Õúÿÿÿÿ8ó¿Ù/
+C
+java:S3864("!Remove this use of "Stream.peek".(Êã‹Ñÿÿÿÿÿ8µœÌà/
+t
+java:S1192"RDefine a constant instead of duplicating this literal "6 Berringer Grove" 3 times.(ÓáÍ²ùÿÿÿÿ8ºÿ†Û/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(šªÆñ8ó¿Ù/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Êã‹Ñÿÿÿÿÿ8¦ŸÛ/
+_
+java:S16124"=Replace this lambda with method reference 'Objects::nonNull'.(ŸğÆòÿÿÿÿÿ8ß¼Õ¯/
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ÇÀ´8£¹Éà/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú»¸‡øÿÿÿÿ8ó¿Ù/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8¡ìÛ/

@@ -1,22 +1,22 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(°®î÷üÿÿÿÿ8ÚÆÙ/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø±şüÿÿÿÿ8·¼éÙ/
 Z	java:S106	"9Replace this use of System.out or System.err by a logger.(àÿµşÿÿÿÿ8ÔÊ½Ù/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(…˜¼Æ8‹º…ê/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ñª¢Œ8»šƒê/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ä®¬ıÿÿÿÿ8“ğÅÙ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ…„İÿÿÿÿÿ8ıóˆê/
 `
 java:S2583"CChange this condition so that it does not always evaluate to "true"(Ê½®Ø8ÚÆÙ/
+T	java:S1060"9Replace this use of System.out or System.err by a logger.(º­,8å±Œê/
+U
+java:S18542"8Remove this useless assignment to local variable "days".(îÄÎ®8Ç³Ú/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°®î÷üÿÿÿÿ8ÚÆÙ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ñª¢Œ8»šƒê/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(íùĞ«ÿÿÿÿÿ8şï’/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”¹Ë8à¼µÙ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø±şüÿÿÿÿ8·¼éÙ/
 U	java:S106!"9Replace this use of System.out or System.err by a logger.(öğ¼²8šûÜ’/
 U	java:S106%"9Replace this use of System.out or System.err by a logger.(ªóí½8öì†Ú/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…˜¼Æ8‹º…ê/
 Z	java:S106("9Replace this use of System.out or System.err by a logger.(’¸™ùÿÿÿÿ8ƒÉ‹Ú/
 F
 java:S14812")Remove this unused "days" local variable.(îÄÎ®8Ç³Ú/
-Z	java:S106+"9Replace this use of System.out or System.err by a logger.(íùĞ«ÿÿÿÿÿ8şï’/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(”¹Ë8à¼µÙ/
-U	java:S1065"9Replace this use of System.out or System.err by a logger.(²ôšô8Øœ›Ú/
-U
-java:S18542"8Remove this useless assignment to local variable "days".(îÄÎ®8Ç³Ú/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ä®¬ıÿÿÿÿ8“ğÅÙ/
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(Øæ´ÿÿÿÿÿ8€’ÊÙ/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ…„İÿÿÿÿÿ8ıóˆê/
-T	java:S1060"9Replace this use of System.out or System.err by a logger.(º­,8å±Œê/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(²ôšô8Øœ›Ú/
